@@ -1,8 +1,4 @@
 # Lab-3-Railway-Reservation
-NAME : SANTHOSH V
-
-REGISTER NUMBER : 212224230252
-
 ### AIM:
 To develop the Railway Reservation System using Star UML tool.
 ### PROBLEM STATEMENT:
